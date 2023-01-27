@@ -7,5 +7,3 @@ __pycache__
 .secrets
 static/**/*
 .env
-node_modules
-.DS_Store
